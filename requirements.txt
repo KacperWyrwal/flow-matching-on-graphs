@@ -1,0 +1,9 @@
+numpy>=1.24
+scipy>=1.10
+torch>=2.0
+matplotlib>=3.7
+networkx>=3.0
+pot>=0.9
+jupyter
+pytest
+torch-geometric>=2.4

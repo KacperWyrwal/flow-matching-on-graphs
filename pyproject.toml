@@ -1,0 +1,18 @@
+[project]
+name = "flow-matching-on-graphs"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "mne>=1.6",
+    "networkx>=3.6.1",
+    "nilearn>=0.10",
+    "numpy>=2.4.3",
+    "pot>=0.9.6.post1",
+    "pytest>=9.0.2",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.17.1",
+    "torch>=2.10.0",
+    "torch-geometric>=2.7.0",
+]
